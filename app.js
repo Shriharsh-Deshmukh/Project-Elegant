@@ -17,7 +17,7 @@ const start = async () => {
     try {
       await connectDB();
       app.listen(PORT, () => {
-        console.log(`${PORT} Yes I am connected to server`);
+        console.log(`${PORT} Yes I am connected`);
       });  
     } catch (error) {
         console.log(error);
