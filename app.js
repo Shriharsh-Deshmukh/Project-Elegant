@@ -26,4 +26,4 @@ const start = async () => {
     }
 };
 
-start();new
+start();
