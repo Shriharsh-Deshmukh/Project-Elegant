@@ -24,6 +24,7 @@ const start = async () => {
     } catch (error) {
         console.log(error);
     }
+    new
 };
 
 start();
