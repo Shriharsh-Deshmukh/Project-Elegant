@@ -1,4 +1,4 @@
-require("dotenc").config();
+require("dotenv").config();
 const connectDB = require("./db/connect");
 const Product = require("./models/product");
 
@@ -10,7 +10,7 @@ const start = async () => {
         await Product.create(ProductJson);
         console.log("success");
     } catch (error) {
-        comsole.log(error);        
+        console.log(error);        
     }
 };
 
