@@ -1,51 +1,51 @@
 [
     {
-        "name": "ABC-1",
+        "name": "abc-1",
         "price": 154,
         "featured": true,
-        "company": "A"
+        "company": "acompany"
     },
 
     {
-        "name": "ABC-2",
+        "name": "abc-2",
         "price": 1154,
         "featured": true,
-        "company": "B"
+        "company": "bcompany"
     },
 
     {
-        "name": "ABC-3",
+        "name": "abc-3",
         "price": 204,
-        "company": "C"
+        "company": "ccompany"
     },
 
     {
-        "name": "ABC-4",
+        "name": "abc-4",
         "price": 304,
-        "company": "D"
+        "company": "dcompany"
     },
 
     {
-        "name": "ABC-6",
+        "name": "abc-6",
         "price": 404,
-        "company": "F"
+        "company": "bcompany"
     },
 
     {
-        "name": "ABC-5",
+        "name": "abc-5",
         "price": 501,
-        "company": "E"
+        "company": "acompany"
     },
 
     {
-        "name": "ABC-7",
+        "name": "abc-7",
         "price": 701,
-        "company": "G"
+        "company": "ccompany"
     },
 
     {
-        "name": "ABC-7",
+        "name": "abc-8",
         "price": 701,
-        "company": "H"
+        "company": "dcompany"
     }
 ]
