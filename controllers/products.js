@@ -40,16 +40,16 @@ const getAllProducts = async(req, res) => {
 
     console.log(queryObject);
 
-    const myData = await apiData;
-    res.status(200).json({ myData, nbHits: myData.length });
+    const Products = await apiData;
+    res.status(200).json({ Products, nbHits: Products.length });
 };
 
     const getAllProductsTesting = async(req, res) => {
     console.log(req.query);
-    const myData = await Product.find( req.query );
+    const Products = await Product.find( req.query );
     //sort = name,price;
 
-    res.status(200).json({ myData, nbHits: myData.length });
+    res.status(200).json({ Products, nbHits: Products.length });
 };
 
 module.exports = { getAllProducts, getAllProductsTesting };
