@@ -1,45 +1,51 @@
 [
     {
-        "name": "iphone",
+        "name": "ABC-1",
         "price": 154,
         "featured": true,
-        "company": "apple"
+        "company": "A"
     },
 
     {
-        "name": "iphone10",
+        "name": "ABC-2",
         "price": 1154,
         "featured": true,
-        "company": "apple"
+        "company": "B"
     },
 
     {
-        "name": "watch",
+        "name": "ABC-3",
         "price": 204,
-        "company": "apple"
+        "company": "C"
     },
 
     {
-        "name": "watch10",
+        "name": "ABC-4",
         "price": 304,
-        "company": "apple"
+        "company": "D"
     },
 
     {
-        "name": "s20",
+        "name": "ABC-6",
         "price": 404,
-        "company": "samsung"
+        "company": "F"
     },
 
     {
-        "name": "dell gaming",
+        "name": "ABC-5",
         "price": 501,
-        "company": "dell"
+        "company": "E"
     },
 
     {
-        "name": "mi20",
+        "name": "ABC-7",
         "price": 701,
-        "company": "mi"
+        "company": "G"
+    },
+
+    {
+        "name": "ABC-7",
+        "price": 701,
+        "company": "H"
     }
 ]
